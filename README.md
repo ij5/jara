@@ -4,6 +4,9 @@
 
 YOLO Pose Estimation 모델을 사용하여 자세가 흐트러지면 시야를 방해하는 프로그램
 
+# 설치
+Github Releases에서 설치 파일을 다운로드 받아주세요.
+
 # Stack
 - Tauri
 - Huggingface candle
